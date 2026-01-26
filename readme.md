@@ -2,7 +2,7 @@
 
 This repository contains a series of assignments to complement material covered in [Introduction to Molecular Polaritonics](https://drive.google.com/drive/folders/1pyrbUankeDs6eXFUa4vroISCxkcq4kAX?usp=sharing).
 
-The goal is to provide an introduce molecular polaritonics to early undergrads. 
+The goal is to provide and introduce molecular polaritonics to early undergrads. 
 
 ## Contents
 Written by Adrija Chattopadhyay and Jayden Koshy Joe. Individual references are included in the respective notes. Any errors are almost surely ours. 
