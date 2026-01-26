@@ -1,6 +1,7 @@
 # Introduction to Molecular Polaritonics
-[Image of sym-triazine in a cavity](Images/molecule_in_cavity.png)
-
+<div style="text-align: center;">
+<img src="./Images/molecule_in_cavity.png" alt="Image of sym-triazine in a cavity">
+</div>
 
 This repository contains a series of assignments to complement material covered in [Introduction to Molecular Polaritonics](https://drive.google.com/drive/folders/1pyrbUankeDs6eXFUa4vroISCxkcq4kAX?usp=sharing).
 
