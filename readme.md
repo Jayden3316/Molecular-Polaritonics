@@ -5,18 +5,24 @@ This repository contains a series of assignments to complement material covered 
 The goal is to provide an introduce molecular polaritonics to early undergrads. 
 
 ## Contents
-Written by Adrija Chattopadhyay and Jayden Koshy Joe. Individual references are included in the respective notes.
-- [Note 1 | Why QM](https://drive.google.com/file/d/1bCaFgPyl0OlHJsqwdOvK6LHkQPcngLY5/view?usp=drive_link)
-- [Note 2 | QM Framework + Stern Gerlach Experiment](https://drive.google.com/file/d/19dWELUTcIbGD5on694Bdyph8EgguKIDO/view?usp=drive_link)
-- [Note 3 | Mathematical Interlude: Typing up loose ends [link to be updated]]()
-- [Note 4 | Quantum Harmonic Oscillator [link to be updated]]()
+Written by Adrija Chattopadhyay and Jayden Koshy Joe. Individual references are included in the respective notes. Any errors are almost surely ours. 
+- [Note 1 | Why QM](./Notes/Note 1 _ Why QM.pdf)
+- [Note 2 | QM Framework + Stern Gerlach Experiment](./Notes/Note 2 _ QM Framework + Stern Gerlach Experiment.pdf)
+- [Supplementary 1 | Wavefunction](./Notes/Supplementary 1 _ Wavefunction.pdf)
+- [Note 3 | Quantum Harmonic Oscillator](./Notes/Note 3 _ Harmonic Oscillator.pdf)
 
 ## File Structure
 ```
 .
 ├── assignments
-│   ├── ho.ipynb
-│   └── solving_de.ipynb
+│   └── ho.ipynb
+├── Notes
+│   ├── Note 1 _ Why QM.pdf
+│   ├── Note 2 _ QM Framework + Stern Gerlach Experiment.pdf
+│   ├── Note 3 _ Harmonic Oscillator.pdf
+│   └── Supplementary 1 _ Wavefunction.pdf
+├── In-chapter visualizations
+│   └── gaussian_uncertainty.ipynb
 └── README.md
 ```
 
