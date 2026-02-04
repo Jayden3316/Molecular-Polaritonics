@@ -12,6 +12,7 @@ Written by Adrija Chattopadhyay and Jayden Koshy Joe. Individual references are 
 - [Note 2 | QM Framework + Stern Gerlach Experiment](./Notes/Note%202%20_%20QM%20Framework%20+%20Stern%20Gerlach%20Experiment.pdf)
 - [Supplementary 1 | Wavefunction](./Notes/Supplementary%201%20_%20Wavefunction.pdf)
 - [Note 3 | Quantum Harmonic Oscillator](./Notes/Note%203%20_%20Harmonic%20Oscillator.pdf)
+- [Note 4 | Time Evolution](./Notes/Note%204%20_%20Time%20Evolution.pdf)
 
 ## File Structure
 ```
@@ -22,7 +23,8 @@ Written by Adrija Chattopadhyay and Jayden Koshy Joe. Individual references are 
 │   ├── Note 1 _ Why QM.pdf
 │   ├── Note 2 _ QM Framework + Stern Gerlach Experiment.pdf
 │   ├── Note 3 _ Harmonic Oscillator.pdf
-│   └── Supplementary 1 _ Wavefunction.pdf
+│   ├── Supplementary 1 _ Wavefunction.pdf
+|   └── Note 4 _ Time Evolution.pdf
 ├── In-chapter visualizations
 │   └── gaussian_uncertainty.ipynb
 └── README.md
